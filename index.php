@@ -8,7 +8,7 @@
 <body>
 <?php include_once ("header.php"); ?>
 TEST
-TestDzimi
+TestJadek
 </body>
 
 </html>
